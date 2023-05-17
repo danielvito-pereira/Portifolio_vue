@@ -15,7 +15,7 @@
 
 ### O que eu aprendi
 
-foi a primeira vez que fiz um botão de idiomas.
+foi a primeira vez que fiz um botão de idiomas,
 foi muito bom poder aprender como fazer o botão de idiomas já que é muito utilizado hoje em dia.
 
 
