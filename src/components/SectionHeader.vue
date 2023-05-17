@@ -14,15 +14,6 @@
         </li>
       </ul>
     </section>
-    <!--
-  <div class="ca">
-        <span @click="setLocale('pt-BR')">PT-BR</span>
-        <span>|-|</span>
-        <span @click="setLocale('es')">ES</span>
-        <span>|-|</span>
-        <span @click="setLocale('en')">EN</span>
-      </div>
- -->  
   </header>
 </template>
 
@@ -167,5 +158,19 @@
     transform:translateZ(1) scale(1);
   }
 }
-
+@media  (max-width:400px) {
+  
+.section .h2{
+  font-family: var(--tipo-titular);
+  font-weight: 600;
+  font-size: 3em;
+  line-height:1em;
+  color:var(--blanco);
+  mix-blend-mode: exclusion;
+}
+.section .h3{
+  font-family: var(--tipo-titular);
+  font-size: 3.3em;
+}
+}
 </style>
