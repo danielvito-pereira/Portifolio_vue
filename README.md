@@ -8,7 +8,7 @@
 
 ### Screenshot
 
-![](.)
+![](../src/assets/img/screenshot.png)
 
 
 
